@@ -17,5 +17,4 @@ public class ex6 {
         sc.close();
     }  
 }
-
 //Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.
