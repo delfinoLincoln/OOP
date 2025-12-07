@@ -1,5 +1,3 @@
-package sem_oop;
-
 import java.util.Scanner;
 import java.util.Locale;
 
