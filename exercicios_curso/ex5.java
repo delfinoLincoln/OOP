@@ -1,4 +1,4 @@
-package condicionais;
+
 import java.util.Scanner;
 
 public class ex5 {
