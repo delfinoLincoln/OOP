@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Current Java File",
+      "request": "launch",
+      "mainClass": "${fileBasenameNoExtension}",
+      "projectName": "${workspaceFolderBasename}",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
