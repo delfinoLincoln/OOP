@@ -1,3 +1,4 @@
+package exercicios_curso.funcoes_basicas;
 public class processamentoDados {
     public static void main(String[] args) {  
         //ex (base + BASE) / 2 * altura(h)

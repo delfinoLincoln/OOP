@@ -1,5 +1,5 @@
+package exercicios_curso.funcoes_basicas;
 import java.util.Locale;
-
 public class ex1 {
     public static void main(String[] args) {
         String product1 = "Computer";

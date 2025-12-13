@@ -1,3 +1,4 @@
+package exercicios_curso.funcoes_basicas;
 import java.util.Scanner;
 
 public class Function {

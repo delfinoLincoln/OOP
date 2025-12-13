@@ -1,3 +1,5 @@
+package exercicios_curso;
+
 import java.util.Scanner;
 import java.util.Locale;
 

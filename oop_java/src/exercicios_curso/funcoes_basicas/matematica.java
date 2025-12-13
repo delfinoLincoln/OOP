@@ -1,3 +1,4 @@
+package exercicios_curso.funcoes_basicas;
 public class matematica {
     public static void main(String[] args) {
         double x = 3.0;

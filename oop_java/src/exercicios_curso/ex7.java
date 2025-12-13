@@ -1,3 +1,4 @@
+package exercicios_curso;
 import java.util.Scanner;
 
 public class ex7 {
