@@ -1,6 +1,6 @@
 {
-    "java.project.sourcePaths": ["src", "exercicios_curso", "funcoes_basicas"],
-    "java.project.outputPath": "bin",
+    "java.project.sourcePaths": ["oop_java/src"],
+    "java.project.outputPath": "oop_java/bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ],
