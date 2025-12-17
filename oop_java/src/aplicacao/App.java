@@ -1,4 +1,5 @@
 package aplicacao;
+
 import java.util.Scanner;
 import java.util.Locale;
 import entidades.Triangle;
