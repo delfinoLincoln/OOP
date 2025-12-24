@@ -1,4 +1,4 @@
-package aplicacao;
+package exercicios_vetor;
 
 import entidades.VetProduct;
 import java.util.Scanner;
