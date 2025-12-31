@@ -28,7 +28,7 @@ public class ProgramHeranca {
             System.out.print("Cor: ");
             String cor = sc.nextLine();
 
-            System.out.println("Placa: ");
+            System.out.print("Placa: ");
             String placa = sc.nextLine();
 
             System.out.print("Tipo do carroceria: ");
@@ -37,13 +37,13 @@ public class ProgramHeranca {
             System.out.print("Ano de fabricacao: ");
             int anoFabricacao = sc.nextInt();
 
-            System.out.println("Cavalos de potencia: ");
+            System.out.print("Cavalos de potencia: ");
             int cv = sc.nextInt();
 
             System.out.print("Quantidade de portas: ");
             int qtdPortas = sc.nextInt();
 
-            System.out.println("Quilometragem: ");
+            System.out.print("Quilometragem: ");
             int quilometragem = sc.nextInt();
 
             Carro novoCarro = new Carro(cv, marca, modelo, anoFabricacao, cor, placa, quilometragem, qtdPortas, tipoCarroceria);

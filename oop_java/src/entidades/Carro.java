@@ -29,4 +29,18 @@ public class Carro extends Veiculo {
     public void setTipoCarroceria(String tipoCarroceria) {
         this.tipoCarroceria = tipoCarroceria;
     }
+
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
+        sb.append("=== VEÍCULO ===\n");
+        sb.append("Fabricante: ").append(fabricante).append("\n");
+        sb.append("Modelo: ").append(modelo).append("\n");
+        sb.append("Ano: ").append(anoFabricacao).append("\n");
+        sb.append("Cor: ").append(cor).append("\n");
+        sb.append("Placa: ").append(placa).append("\n");
+        sb.append("Potência: ").append(cavalosPotencia).append(" cv\n");
+        sb.append("Quilometragem: ").append(quilometragem).append(" km\n");
+        return sb.toString();
+    }
 }

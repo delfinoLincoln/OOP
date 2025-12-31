@@ -1,13 +1,13 @@
 package entidades;
 
 public class Veiculo {
-    private Integer cavalosPotencia;
-    private String fabricante;
-    private String modelo;
-    private Integer anoFabricacao;
-    private String cor;
-    private String placa;
-    private Integer quilometragem;
+    protected Integer cavalosPotencia;
+    protected String fabricante;
+    protected String modelo;
+    protected Integer anoFabricacao;
+    protected String cor;
+    protected String placa;
+    protected Integer quilometragem;
     
     public Veiculo() {
     }
