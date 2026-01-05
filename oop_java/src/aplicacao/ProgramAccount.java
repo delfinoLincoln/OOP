@@ -1,12 +1,17 @@
 package aplicacao;
 
-import entidades.BusinessAccount;
-
+import entidades.Account;
+import entidades.SavingsAccount;
 public class ProgramAccount {
     public static void main(String[] args) {
-        BusinessAccount account = new BusinessAccount(8010, "Bob Brown", 0.0, 500.0);
+        
+        Account x = new Account(1001, "link", 1000.0);
+        Account y = new SavingsAccount(1023, "Lussani", 1000.0, 0.01);
 
-        System.out.println(account.getBalance());
+        x.withdraw(50.0);
+        y.withdraw(50.0);
 
+        System.out.println(x.getBalance());
+        System.out.println(y.getBalance());
     }
 }
