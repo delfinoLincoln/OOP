@@ -54,7 +54,6 @@ public class ProgramEmployee {
             System.out.println(employee.getName() + " - $" + String.format("%.2f", employee.payment()));
         }
 
-
         sc.close();
     }
 }
