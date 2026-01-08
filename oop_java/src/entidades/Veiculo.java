@@ -1,6 +1,6 @@
 package entidades;
 
-public class Veiculo {
+public abstract class Veiculo {
     protected Integer cavalosPotencia;
     protected String fabricante;
     protected String modelo;
