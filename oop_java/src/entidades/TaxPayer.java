@@ -28,5 +28,5 @@ public abstract class TaxPayer {
         this.anualIncome = anualIncome;
     }
 
-    public abstract double Tax();
+    public abstract Double tax();
 }
