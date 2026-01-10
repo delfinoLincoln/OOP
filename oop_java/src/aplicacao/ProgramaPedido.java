@@ -1,7 +1,8 @@
 package aplicacao;
 
 import entidades.Pedido;
-import entidades_enums.StatusPedido;
+import enums.StatusPedido;
+
 import java.util.Date;
 
 public class ProgramaPedido {

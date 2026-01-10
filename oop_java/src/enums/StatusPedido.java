@@ -1,4 +1,4 @@
-package entidades_enums;
+package enums;
 
 public enum StatusPedido {
     

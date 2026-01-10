@@ -1,6 +1,6 @@
 package entidades;
 
-import entidades_enums.ShapeColors;
+import enums.ShapeColors;
 
 public class Circle extends Shape{
     private Double radius;

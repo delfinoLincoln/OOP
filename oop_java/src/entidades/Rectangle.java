@@ -1,6 +1,6 @@
 package entidades;
 
-import entidades_enums.ShapeColors;
+import enums.ShapeColors;
 
 public class Rectangle extends Shape{
     private Double width;

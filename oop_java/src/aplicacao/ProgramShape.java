@@ -8,7 +8,7 @@ import java.util.Scanner;
 import entidades.Circle;
 import entidades.Rectangle;
 import entidades.Shape;
-import entidades_enums.ShapeColors;
+import enums.ShapeColors;
 
 public class ProgramShape {
     public static void main(String[] args) {

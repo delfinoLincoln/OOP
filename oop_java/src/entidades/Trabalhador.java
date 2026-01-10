@@ -1,10 +1,10 @@
 package entidades;
 
-import entidades_enums.NivelTrabalhador;
-
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
+
+import enums.NivelTrabalhador;
 
 public class Trabalhador {
     private String nome;

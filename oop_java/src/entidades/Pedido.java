@@ -1,7 +1,8 @@
 package entidades;
 
 import java.util.Date;
-import entidades_enums.StatusPedido;
+
+import enums.StatusPedido;
 
 public class Pedido {
     private Integer id;

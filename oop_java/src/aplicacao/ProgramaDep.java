@@ -9,7 +9,7 @@ import java.util.Scanner;
 import entidades.Departamento;
 import entidades.HoraContrato;
 import entidades.Trabalhador;
-import entidades_enums.NivelTrabalhador;
+import enums.NivelTrabalhador;
 
 public class ProgramaDep {
     public static void main(String[] args) throws ParseException{
