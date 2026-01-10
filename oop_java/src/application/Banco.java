@@ -1,4 +1,4 @@
-package aplicacao;
+package application;
 
 import entidades.ContaBancaria;
 import java.util.Scanner;

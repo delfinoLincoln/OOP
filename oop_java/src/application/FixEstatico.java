@@ -1,4 +1,4 @@
-package aplicacao;
+package application;
 import java.util.Scanner;
 
 import util.ConversorMoeda;

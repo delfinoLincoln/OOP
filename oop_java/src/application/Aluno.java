@@ -1,4 +1,4 @@
-package aplicacao;
+package application;
 import entidades.NotaAluno;
 
 import java.util.Locale;
