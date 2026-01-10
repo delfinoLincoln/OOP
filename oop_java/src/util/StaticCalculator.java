@@ -1,4 +1,4 @@
-package utilitario;
+package util;
 
 public class StaticCalculator {
     public static final double PI = 3.14159;

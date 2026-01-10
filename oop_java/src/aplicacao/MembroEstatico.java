@@ -3,7 +3,7 @@ package aplicacao;
 import java.util.Locale;
 import java.util.Scanner;
 
-import utilitario.StaticCalculator;
+import util.StaticCalculator;
 
 public class MembroEstatico {
     public static void main(String[] args) {

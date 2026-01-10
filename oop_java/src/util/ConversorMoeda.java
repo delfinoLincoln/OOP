@@ -1,4 +1,4 @@
-package utilitario;
+package util;
 
 public class ConversorMoeda {
     public static double cotacao;

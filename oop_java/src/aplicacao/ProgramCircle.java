@@ -1,7 +1,8 @@
 package aplicacao;
-import utilitario.Calculator;
-
 import java.util.Scanner;
+
+import util.Calculator;
+
 import java.util.Locale;
 
 public class ProgramCircle {

@@ -1,7 +1,8 @@
 package aplicacao;
-import utilitario.ConversorMoeda;
-
 import java.util.Scanner;
+
+import util.ConversorMoeda;
+
 import java.util.Locale;
 
 public class FixEstatico {
