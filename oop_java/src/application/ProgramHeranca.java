@@ -3,7 +3,8 @@ package application;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import entidades.Carro;
+
+import entities.Carro;
 
 public class ProgramHeranca {
     public static void main(String[] args) {

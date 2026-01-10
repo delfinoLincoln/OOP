@@ -6,8 +6,8 @@ import java.time.format.DateTimeFormatter;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entidades.CarRental;
-import entidades.Vehicle;
+import entities.CarRental;
+import entities.Vehicle;
 import services.BrazilTaxService;
 import services.RentalService;
 

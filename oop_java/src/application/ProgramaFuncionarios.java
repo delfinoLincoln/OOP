@@ -2,10 +2,11 @@ package application;
 
 import java.util.Locale;
 import java.util.Scanner;
+
+import entities.Funcionarios;
+
 import java.util.List;
 import java.util.ArrayList;
-
-import entidades.Funcionarios;
 
 public class ProgramaFuncionarios {
     public static void main(String[] args) {

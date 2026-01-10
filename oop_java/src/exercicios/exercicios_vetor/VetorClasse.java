@@ -1,7 +1,9 @@
 package exercicios.exercicios_vetor;
 
-import entidades.VetProduct;
 import java.util.Scanner;
+
+import entities.VetProduct;
+
 import java.util.Locale;
 
 public class VetorClasse {

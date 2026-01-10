@@ -6,9 +6,9 @@ import java.text.SimpleDateFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entidades.Departamento;
-import entidades.HoraContrato;
-import entidades.Trabalhador;
+import entities.Departamento;
+import entities.HoraContrato;
+import entities.Trabalhador;
 import enums.NivelTrabalhador;
 
 public class ProgramaDep {

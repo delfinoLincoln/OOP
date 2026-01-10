@@ -1,7 +1,9 @@
 package application;
 
-import entidades.ContaBancaria;
 import java.util.Scanner;
+
+import entities.ContaBancaria;
+
 import java.util.Locale;
 
 public class Banco {

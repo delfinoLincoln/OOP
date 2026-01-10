@@ -1,7 +1,7 @@
 package application;
 
-import entidades.Account;
-import entidades.SavingsAccount;
+import entities.Account;
+import entities.SavingsAccount;
 public class ProgramAccount {
     public static void main(String[] args) {
         

@@ -5,7 +5,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Scanner;
 
-import entidades.Reservation;
+import entities.Reservation;
 import exceptions.DomainException;
 
 public class ProgramReservation {

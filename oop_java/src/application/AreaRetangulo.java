@@ -1,8 +1,9 @@
 package application;
 
-import entidades.Retangulo;
-
 import java.util.Scanner;
+
+import entities.Retangulo;
+
 import java.util.Locale;
 
 public class AreaRetangulo {

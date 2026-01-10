@@ -8,9 +8,9 @@ import java.util.ArrayList;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entidades.ImportedProduct;
-import entidades.Product;
-import entidades.UsedProduct;
+import entities.ImportedProduct;
+import entities.Product;
+import entities.UsedProduct;
 
 public class ProgramProduct {
     public static void main(String[] args) throws ParseException{

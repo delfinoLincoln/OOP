@@ -2,8 +2,8 @@ package services;
 
 import java.time.Duration;
 
-import entidades.CarRental;
-import entidades.Invoice;
+import entities.CarRental;
+import entities.Invoice;
 import interfaces.TaxService;
 
 

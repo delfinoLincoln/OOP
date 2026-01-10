@@ -1,8 +1,8 @@
 package application;
-import entidades.NotaAluno;
-
 import java.util.Locale;
 import java.util.Scanner;
+
+import entities.NotaAluno;
 
 public class Aluno {
     public static void main(String[] args) {

@@ -2,8 +2,8 @@ package application;
 
 import java.util.Scanner;
 
-import entidades.Employee;
-import entidades.OutSourceEmployee;
+import entities.Employee;
+import entities.OutSourceEmployee;
 
 import java.util.Locale;
 import java.util.List;

@@ -5,9 +5,9 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entidades.Circle;
-import entidades.Rectangle;
-import entidades.Shape;
+import entities.Circle;
+import entities.Rectangle;
+import entities.Shape;
 import enums.ShapeColors;
 
 public class ProgramShape {

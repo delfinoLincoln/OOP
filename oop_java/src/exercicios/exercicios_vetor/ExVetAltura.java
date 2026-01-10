@@ -1,7 +1,9 @@
 package exercicios.exercicios_vetor;
 
-import entidades.VetPessoa;
 import java.util.Scanner;
+
+import entities.VetPessoa;
+
 import java.util.Locale;
 
 public class ExVetAltura {

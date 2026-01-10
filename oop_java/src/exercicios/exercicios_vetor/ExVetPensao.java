@@ -1,7 +1,8 @@
 package exercicios.exercicios_vetor;
 
-import entidades.VetPensao;
 import java.util.Scanner;
+
+import entities.VetPensao;
 
 public class ExVetPensao {
     public static void main(String[] args) {

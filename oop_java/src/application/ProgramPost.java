@@ -3,8 +3,8 @@ package application;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
-import entidades.Comment;
-import entidades.Post;
+import entities.Comment;
+import entities.Post;
 
 public class ProgramPost {
     public static void main(String[] args) throws ParseException{
