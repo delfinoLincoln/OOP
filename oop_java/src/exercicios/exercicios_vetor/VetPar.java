@@ -1,4 +1,4 @@
-package exercicios_vetor;
+package exercicios.exercicios_vetor;
 
 import java.util.Scanner;
 

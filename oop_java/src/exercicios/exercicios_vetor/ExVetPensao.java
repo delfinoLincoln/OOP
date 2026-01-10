@@ -1,4 +1,4 @@
-package exercicios_vetor;
+package exercicios.exercicios_vetor;
 
 import entidades.VetPensao;
 import java.util.Scanner;
