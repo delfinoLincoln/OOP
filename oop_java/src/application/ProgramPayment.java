@@ -1,5 +1,7 @@
 package application;
 
+//pontos para melhorar: delegar que as classes responsaveis tratem suas exceções e tirar do programa principal
+
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;

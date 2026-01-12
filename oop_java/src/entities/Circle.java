@@ -2,7 +2,7 @@ package entities;
 
 import enums.ShapeColors;
 
-public class Circle extends Shape{
+public class Circle extends AbstractShape{
     private Double radius;
 
     public Circle() {
