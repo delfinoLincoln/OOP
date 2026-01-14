@@ -9,6 +9,10 @@ public class Circle extends AbstractShape{
         super();
     }
 
+    public Circle(Double radius) {
+        this.radius = radius;
+    }
+
     public Circle(ShapeColors color, Double radius) {
         super(color);
         this.radius = radius;
