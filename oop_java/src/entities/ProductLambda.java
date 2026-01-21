@@ -27,6 +27,28 @@ public class ProductLambda {
     public void setPrice(Double price) {
         this.price = price;
     }
+
+                        /* <Consumer> */
+    /*------------------------------------------------------------- */
+    public static void staticProductPrice(ProductLambda p) {
+        p.setPrice(p.getPrice() * 1.1);
+    }
+
+    public void nonStaticProductPrice() {
+        setPrice(getPrice() * 1.1);
+    }
+    /*------------------------------------------------------------- */
+
+                        /* <Predicate> */
+    /*------------------------------------------------------------- */
+    public static boolean staticProductPredicate(ProductLambda p) {
+        return p.getPrice() >= 100.0;
+    }
+
+    public boolean nonStaticProductPredicate() {
+        return price >= 100.0;
+    }
+    /*------------------------------------------------------------- */
     
     @Override
     public String toString() {

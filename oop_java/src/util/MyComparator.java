@@ -1,4 +1,4 @@
-package interfaces.funcionais;
+package util;
 
 import java.util.Comparator;
 import entities.ProductLambda;
