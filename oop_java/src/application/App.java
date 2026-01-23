@@ -1,9 +1,7 @@
 package application;
 
 import java.util.Scanner;
-
 import entities.Triangle;
-
 import java.util.Locale;
 
 public class App {
