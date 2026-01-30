@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["oop_java/src"],
+    "java.project.outputPath": "oop_java/bin",
+    "files.exclude": {
+        "**/*.class": true
+    }
+}
