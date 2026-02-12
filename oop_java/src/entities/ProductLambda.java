@@ -28,7 +28,7 @@ public class ProductLambda {
         this.price = price;
     }
 
-                    /* <Consumer> */
+                        /* <Consumer> */
     /*------------------------------------------------------------- */
     public static void staticProductPrice(ProductLambda p) {
         p.setPrice(p.getPrice() * 1.1);
@@ -39,7 +39,7 @@ public class ProductLambda {
     }
     /*------------------------------------------------------------- */
 
-                    /* <Predicate> */
+                        /* <Predicate> */
     /*------------------------------------------------------------- */
     public static boolean staticProductPredicate(ProductLambda p) {
         return p.getPrice() >= 100.0;
@@ -47,17 +47,6 @@ public class ProductLambda {
 
     public boolean nonStaticProductPredicate() {
         return price >= 100.0;
-    }
-    /*------------------------------------------------------------- */
-
-                    /* <Function> */
-    /*------------------------------------------------------------- */
-    public static String staticUpperCaseName(ProductLambda p) {
-        return p.getName().toUpperCase();
-    }
-
-    public String nonUpperCaseName() {
-        return name.toUpperCase();
     }
     /*------------------------------------------------------------- */
     
@@ -95,5 +84,7 @@ public class ProductLambda {
         } else if (!price.equals(other.price))
             return false;
         return true;
-    }   
+    }
+
+    
 }
